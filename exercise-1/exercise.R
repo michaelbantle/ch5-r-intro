@@ -26,3 +26,5 @@ total_cost > 1000
 # afford for $1,000
 max_puppies <- floor(1000/puppy_price) or you can do round(1000/puppy_price)
 max_puppies
+
+install.packages("stringr")
